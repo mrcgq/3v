@@ -1,12 +1,4 @@
-/*
- * v3 Server Lite (Portable Edition) - Ultimate & Complete
- * 
- * [特性]
- * - 单文件，零依赖，静态编译
- * - 内嵌 ChaCha20-Poly1305 (完整实现)
- * - 内嵌动态 Magic (安全)
- * - epoll 后端 (兼容老旧内核)
- */
+
 
 #define _GNU_SOURCE
 #include <stdio.h>
