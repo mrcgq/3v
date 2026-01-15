@@ -1,5 +1,5 @@
 
-## 文件 4：v3_pacing_adaptive.c
+
 
 
 #include "v3_pacing_adaptive.h"
