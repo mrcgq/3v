@@ -1,7 +1,7 @@
 
 
 
-## 文件 6：v3_antidetect_mtu.c
+
 
 
 #include "v3_antidetect_mtu.h"
