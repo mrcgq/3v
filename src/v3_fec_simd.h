@@ -1,4 +1,4 @@
-## 文件 1：v3_fec_simd.h  //（SIMD 优化 + XOR 备选）
+
 
 
 #ifndef V3_FEC_SIMD_H
