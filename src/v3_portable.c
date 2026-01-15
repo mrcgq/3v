@@ -151,7 +151,11 @@ typedef struct __attribute__((packed)) {
 #define V3_HEADER_SIZE sizeof(v3_header_t)
 
 typedef struct {
-    uint64_t session_token; uint16_t intent_id; uint16_t stream_id; uint16_t flags;
+    uint64_t session_token; 
+	uint16_t intent_id; 
+	uint16_t stream_id; 
+	uint16_t flags;
+	uint16_t early_len; 
 } v3_meta_t;
 #define FLAG_ALLOW_0RTT (1 << 0)
 
