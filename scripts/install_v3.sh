@@ -3,7 +3,8 @@
 
 # 你的 GitHub 仓库 Release 或 Artifact 下载链接前缀
 # 实际使用时建议配合 GitHub Releases 功能
-BASE_URL="https://github.com/你的用户名/你的仓库/releases/latest/download"
+BASE_URL="https://github.com/mrcgq/3v/releases/download/v3/"
+
 
 echo "╔═════════════════════════════════════════════════╗"
 echo "║          v3 Server Universal Installer          ║"
