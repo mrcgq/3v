@@ -1,8 +1,4 @@
-/*
- * v3 Server WSS (Rescue Edition) - Complete
- * [功能] 完整 WebSocket + TLS 实现
- * [编译] gcc -O3 -o v3_server_wss v3_ws_server.c -lssl -lcrypto -lpthread
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
